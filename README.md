@@ -1,4 +1,4 @@
-# 👋 Hi there, I'm Osama Alhayek  
+# 👋 Hi there, I'm Osama Al-haik  
 
 🎓 I'm a **Network Engineering student** and **Cyber Security specialist** passionate about building secure, scalable, and reliable systems.  
 💻 I love exploring everything related to **network security**, **ethical hacking**, **digital forensics**, and **system hardening**.
@@ -43,9 +43,9 @@ Here are some of the projects I’m currently working on or plan to share soon:
 ---
 
 ### 📫 Connect with Me
-- 💼 [LinkedIn](https://linkedin.com/in/osama-alhayek)  
+- 💼 [LinkedIn](https://www.linkedin.com/in/osama-al-haik-a49b8b388?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)  
 - 🌍 [Portfolio / Blog](https://osama-alhayek.github.io) *(if you create one)*  
-- ✉️ [Email Me](mailto:osama.alhayek@example.com)
+- ✉️ [Email Me](osamamohammad30058@gmail.com)
 
 ---
 
